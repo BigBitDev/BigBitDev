@@ -7,7 +7,6 @@
 
 ```
 <br/>
----
 
 ### WEB developer  🧑‍💻 
 - 👨‍💻 All of my projects are available at [WEBSITE][website]
