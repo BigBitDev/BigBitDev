@@ -21,15 +21,15 @@ oooooo   oooooo     oooo oooooooooooo ooooo          .oooooo.     .oooooo.   ooo
 
 - 🔭 I’m currently working as a freelance
 
+- 📝 I currently write articles on [ManuMartinez](https://hashnode.com/@whitehatdevv)
+
+### Interest
 - 🧠 I’m currently learning more about web dev
 
 - 👯 I’m looking to collaborate on any kinds of proyects with js 
 
-- 📝 I regularly write articles on [https://dev.to/bigbitdev](https://dev.to/bigbitdev)
-
 - 💬 Ask me about **programming, books, coding challenges, economy, books**
 
-- 📫 How to reach me **dangdev97@gmail.com**
 
 <br/>
 
