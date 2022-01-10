@@ -34,6 +34,8 @@ oooooo   oooooo     oooo oooooooooooo ooooo          .oooooo.     .oooooo.   ooo
 --- 
 ### 📰 CHECK MY LAST POST 
 <!-- BLOG-POST-LIST:START -->
+- [REACT -&gt; HOOKS!](https://dev.to/bigbitdev/react-hooks-35ll)
+- [ReactJs HOW TO: Create a React basic App from console](https://dev.to/bigbitdev/reactjs-how-to-create-a-react-basic-app-from-console-1bk0)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
