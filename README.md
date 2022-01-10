@@ -1,9 +1,15 @@
 # HI! THIS IS THE BIGBITDEV README👋
 ```
- ____ ____ ____ ____ ____ ____ ____ 
-||W |||E |||L |||C |||O |||M |||E ||
-||__|||__|||__|||__|||__|||__|||__||
-|/__\|/__\|/__\|/__\|/__\|/__\|/__\|
+
+oooooo   oooooo     oooo oooooooooooo ooooo          .oooooo.     .oooooo.   ooo        ooooo oooooooooooo 
+ `888.    `888.     .8'  `888'     `8 `888'         d8P'  `Y8b   d8P'  `Y8b  `88.       .888' `888'     `8 
+  `888.   .8888.   .8'    888          888         888          888      888  888b     d'888   888         
+   `888  .8'`888. .8'     888oooo8     888         888          888      888  8 Y88. .P  888   888oooo8    
+    `888.8'  `888.8'      888    "     888         888          888      888  8  `888'   888   888    "    
+     `888'    `888'       888       o  888       o `88b    ooo  `88b    d88'  8    Y     888   888       o 
+      `8'      `8'       o888ooooood8 o888ooooood8  `Y8bood8P'   `Y8bood8P'  o8o        o888o o888ooooood8 
+                                                                                                           
+                                                                                                           
 
 ```
 <br/>
@@ -34,7 +40,14 @@
 ---
 
 
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+  </a>
 
+</details>
 
 
 
