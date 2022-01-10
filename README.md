@@ -33,15 +33,28 @@ oooooo   oooooo     oooo oooooooooooo ooooo          .oooooo.     .oooooo.   ooo
 
 <br/>
 
+## MY LATEST ACTIVITY
+
 --- 
-### 📰 CHECK MY LAST POST 
+### 📰 LAST POST 
 <!-- BLOG-POST-LIST:START -->
 - [REACT -&gt; HOOKS!](https://dev.to/bigbitdev/react-hooks-35ll)
 - [ReactJs HOW TO: Create a React basic App from console](https://dev.to/bigbitdev/reactjs-how-to-create-a-react-basic-app-from-console-1bk0)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
----
+### GITHUB 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+
+
+
+
+
+--- 
+
 
 <details>
   <summary><b> 📈 MY STATS </b></summary>
