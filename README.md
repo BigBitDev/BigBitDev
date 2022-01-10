@@ -43,11 +43,6 @@ oooooo   oooooo     oooo oooooooooooo ooooo          .oooooo.     .oooooo.   ooo
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
-### GITHUB 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
 
 
 
