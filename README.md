@@ -23,7 +23,7 @@ oooooo   oooooo     oooo oooooooooooo ooooo          .oooooo.     .oooooo.   ooo
 
 - 🧠 I’m currently learning more about web dev
 
-- 👯 I’m looking to collaborate on any kinds of proyects
+- 👯 I’m looking to collaborate on any kinds of proyects with js 
 
 - 📝 I regularly write articles on [https://dev.to/bigbitdev](https://dev.to/bigbitdev)
 
