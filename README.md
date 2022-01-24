@@ -1,4 +1,4 @@
-# HI! THIS IS THE BIGBITDEV README👋
+
 ```
 
 oooooo   oooooo     oooo oooooooooooo ooooo          .oooooo.     .oooooo.   ooo        ooooo oooooooooooo 
@@ -12,6 +12,23 @@ oooooo   oooooo     oooo oooooooooooo ooooo          .oooooo.     .oooooo.   ooo
                                                                                                            
 
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br/>
 
 ### WEB developer  🧑‍💻 
