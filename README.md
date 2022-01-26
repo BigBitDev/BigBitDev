@@ -32,7 +32,7 @@ oooooo   oooooo     oooo oooooooooooo ooooo          .oooooo.     .oooooo.   ooo
 <br/>
 
 ### WEB developer  🧑‍💻 
-- 👨‍💻 All of my projects are available at my [WEBSITE][website]
+- 👨‍💻 Last Proyect [WEBSITE][website]
 
 - 💻 All my code practicing 👉 [REPLIT][replitwebsite]
 
