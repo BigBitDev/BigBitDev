@@ -55,6 +55,7 @@ oooooo   oooooo     oooo oooooooooooo ooooo          .oooooo.     .oooooo.   ooo
 --- 
 ### 📰 LAST POST 
 <!-- BLOG-POST-LIST:START -->
+- [Watch bro! its my new clock!](https://dev.to/bigbitdev/watch-bro-its-my-new-clock-4knk)
 - [GENERATE PASSWORD on REACT!](https://dev.to/bigbitdev/generate-password-on-react-48gp)
 - [REACT -&gt; HOOKS!](https://dev.to/bigbitdev/react-hooks-35ll)
 - [ReactJs HOW TO: Create a React basic App from console](https://dev.to/bigbitdev/reactjs-how-to-create-a-react-basic-app-from-console-1bk0)
