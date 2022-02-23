@@ -20,8 +20,6 @@
 ### WEB developer  🧑‍💻 
 - 👨‍💻 Last Proyect [WEBSITE][website]
 
-- 💻 All my code practicing 👉 [REPLIT][replitwebsite]
-
 - 🔭 I’m currently working as a freelance
 
 - 📝 I currently write articles on [ManuMartinez](https://hashnode.com/@whitehatdevv)
@@ -105,4 +103,4 @@ This is my professional profile if you land here by chance I invite you to check
 
 <!-- Links zone -->
 [website]: https://nft-card-bigbitdev97.netlify.app/
-[replitwebsite]: https://replit.com/@BigBitDev/
+
