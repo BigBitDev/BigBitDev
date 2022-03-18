@@ -6,7 +6,7 @@
 - [REACT - HOOKS!](https://dev.to/bigbitdev/react-hooks-35ll)
 - [REACT - Create a React basic App from console](https://dev.to/bigbitdev/reactjs-how-to-create-a-react-basic-app-from-console-1bk0)
 <!-- BLOG-POST-LIST:END -->
-<br/>
+
 --- 
 
 
