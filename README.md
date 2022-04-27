@@ -19,7 +19,7 @@ Llevo desde 2019 haciendo páginas web para pequeños negocios y dedicando siemp
 * 🤝  Estoy abierto a colaborar en Web proyects , Hackhatons, Todo lo relacionado con Javascript !
 
 
-<img hight="300" width="500" alt="GIF" align="right" src="https://github.com/iBigBitDev97/Readme-components/blob/master/e426702edf874b181aced1e2fa5c6cde.gif">
+<img hight="300" width="300" alt="GIF" align="right" src="https://github.com/iBigBitDev97/Readme-components/blob/master/e426702edf874b181aced1e2fa5c6cde.gif">
 
 ### - Actualmente Aprendiendo :
 - ✨ React
