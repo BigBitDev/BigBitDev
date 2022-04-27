@@ -27,17 +27,10 @@ Llevo desde 2019 haciendo páginas web para pequeños negocios y dedicando siemp
 
 ### - Hobbies : 
 - ✨ Escribir post en DEV.TO
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-# SpotLights
 
+SpotLights : 
+=================
 <p>Este es mi perfil Profesional, si quieres ver proyectos mas pequeños y de practica te invito a visitar mi otro perfil </p> 
 
 [![my other profile](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iBigBitDev97)
