@@ -37,7 +37,7 @@ Llevo desde 2019 haciendo páginas web para pequeños negocios y dedicando siemp
 <br/>
 <br/>
 
-# Interest SpotLights
+# SpotLights
 
 <p>Este es mi perfil Profesional, si quieres ver proyectos mas pequeños y de practica te invito a visitar mi otro perfil </p> 
 
