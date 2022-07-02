@@ -6,7 +6,7 @@ Full Stack Web Developer y Entusiasta de :
 
 - ✨ Realidad Aumentada y Realidad Virtual
 - ✨ Blockchain y Smart Contracts
-
+- ✨ Javascript y sus mil Frameworks
 
 Acerca de Mi 💬 :
 =================
